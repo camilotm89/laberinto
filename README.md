@@ -1,0 +1,2 @@
+proyecto para computación gráfica
+
